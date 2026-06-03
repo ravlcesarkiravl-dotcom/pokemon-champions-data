@@ -1,5 +1,10 @@
 # Set Individual: Basculegion (N.º 902)
 
+> [!WARNING]
+> **ESTE POKÉMON NO SE ENCUENTRA ACTIVO EN EL EQUIPO ACTUAL.**
+> Fue reemplazado por **Aegislash** para equilibrar las debilidades elementales de Agua y proveer resistencia e inmunidad contra Sneasler, Dragones y Hadas.
+
+
 ## Información Básica
 * **Pokémon:** Basculegion
 * **Tipos:** Agua / Fantasma

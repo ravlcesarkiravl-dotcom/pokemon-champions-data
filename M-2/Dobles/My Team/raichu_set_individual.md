@@ -47,4 +47,4 @@
 ## Objeto
 | Nombre |
 |--------| 
-| Beya Yecana |
+| Baya Pasio |

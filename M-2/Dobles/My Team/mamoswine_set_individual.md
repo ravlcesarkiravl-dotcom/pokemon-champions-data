@@ -1,5 +1,10 @@
 # Set Individual: Mamoswine (N.º 473)
 
+> [!WARNING]
+> **ESTE POKÉMON NO SE ENCUENTRA ACTIVO EN EL EQUIPO ACTUAL.**
+> Fue reemplazado por **Incineroar** para optimizar el soporte defensivo (Intimidación/Sorpresa) y el contracontrol contra climas de Sol.
+
+
 ## Información Básica
 * **Pokémon:** Mamoswine
 * **Tipos:** Hielo / Tierra
@@ -47,4 +52,4 @@
 ## Objeto
 | Nombre |
 |--------| 
-| Baya Pomaro |
+| Baya Pomar |

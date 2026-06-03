@@ -37,7 +37,7 @@
 ## Estadísticas
 | Stat | Valor | EVs |
 |------|-------|-----|
-| PS | 155 | 1 |
+| PS | 155 | 2 |
 | Ataque | 92 | 0 |
 | Defensa | 120 | 0 |
 | At. Esp. | 150 | 32 |

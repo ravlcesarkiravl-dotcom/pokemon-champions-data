@@ -41,7 +41,7 @@
 | Ataque | 125 | 0 |
 | Defensa | 150 | 0 |
 | At. Esp. | 194 | 32 |
-| Def. Esp. | 85 | 0 |
+| Def. Esp. | 85 | 2 |
 | Velocidad | 105 | 0 |
 
 ## Objeto

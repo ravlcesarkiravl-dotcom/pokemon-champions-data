@@ -1,10 +1,5 @@
 # Set Individual: Aegislash (N.º 681)
 
-> [!WARNING]
-> **ESTE POKÉMON NO SE ENCUENTRA ACTIVO EN EL EQUIPO ACTUAL.**
-> Fue reemplazado por **Archaludon** para optimizar la sinergia de Lluvia y la cobertura contra amenazas de Sol.
-
-
 ## Información Básica
 * **Pokémon:** Aegislash
 * **Forma:** Forma Escudo
@@ -45,12 +40,12 @@
 |------|-------|-----|
 | PS | 167 | 32 |
 | Ataque | 70 | 0 |
-| Defensa | 161 | 1 |
+| Defensa | 161 | 0 |
 | At. Esp. | 112 | 32 |
-| Def. Esp. | 161 | 1 |
+| Def. Esp. | 161 | 2 |
 | Velocidad | 72 | 0 |
 
 ## Objeto
 | Nombre |
 |--------| 
-| Restos |
+| Baya Cidra |
