@@ -14,3 +14,9 @@ Este documento recopila las reglas de formato y restricciones del metagame de **
 
 * **Mecánica Activa:** La **Megaevolución** es actualmente la única mecánica especial permitida (sin Teracristalización, Dinamax ni Movimientos Z por el momento). Más adelante se podrían agregar otras mecánicas, pero por ahora solo nos enfocamos en esta.
 
+## 🚫 Objetos No Disponibles
+
+* **Chaleco Asalto (Assault Vest):** No existe en este metagame.
+* **Gafas Protectoras (Safety Goggles):** No existe en este metagame.
+
+
